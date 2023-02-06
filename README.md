@@ -23,13 +23,13 @@
 2. Install the produced "phosphur-*.tgz":
 
 ```sh
-$ npm install https://github.com/etcherfx/Phosphur/releases/download/$VERSION/phosphur-$VERSION.tgz
+npm install https://github.com/etcherfx/Phosphur/releases/download/$VERSION/phosphur-$VERSION.tgz
 ```
 
 3. Continue instructions...
 
 ```sh
-$ npm start
+npm start
 ```
 
 ## Credits
