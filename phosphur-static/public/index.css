@@ -57,6 +57,10 @@
 		background: #191725;
 		border: 1px solid #191725;
 	}
+
+	.left-margin {
+		color: white;
+	}
 }
 
 @media (prefers-color-scheme: light) {
@@ -102,6 +106,10 @@
 		background: #ffffff;
 		border: 1px solid #ffffff;
 	}
+
+	.left-margin {
+		color: black;
+	}
 }
 
 body {
@@ -129,9 +137,13 @@ body {
 	margin-top: 10%;
 }
 
-.left-margin {
+.center-margin {
 	display: grid;
 	place-items: center;
+}
+
+.left-margin {
+	margin: 0px 16px;
 }
 
 #uv-error {

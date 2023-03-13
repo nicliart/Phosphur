@@ -1,20 +1,28 @@
 {
   "name": "phosphur",
-  "main": "lib/index.js",
   "version": "1.0.0",
+  "description": "A minimalistic Ultraviolet frontend.",
   "type": "module",
-  "scripts": {
-    "build": "node scripts/build.js"
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=16.0.0"
   },
-  "files": [
-    "public",
-    "lib"
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "proxy"
   ],
-  "peerDependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^1.0.10"
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.10",
+    "@tomphttp/bare-server-node": "^1.2.5",
+    "express": "^4.18.2",
+    "ultraviolet-static": "file:/phosphur-static"
   },
   "devDependencies": {
-    "eslint": "^8.23.0",
-    "prettier": "^2.7.1"
+    "eslint": "^8.32.0",
+    "prettier": "^2.8.3"
   }
 }
