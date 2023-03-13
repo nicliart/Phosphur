@@ -19,19 +19,10 @@
 
 ## How to deploy
 
-- Clone [Ultraviolet-App](https://github.com/titaniumnetwork-dev/Ultraviolet-App) to a hosting service 
+- Clone [Phosphur](https://github.com/etcherfx/Phosphur) to a hosting service 
 - Run the following command in the console:
 ```sh
-npm install
-```
-- Install the produced "phosphur-*.tgz" from [Releases](https://github.com/etcherfx/Phosphur/releases):
-    <p><sub> 
-
-    - *Replace $VERSION in the command below with the version you want to install* 
-
-    </sub></p>
-```sh
-npm install https://github.com/etcherfx/Phosphur/releases/download/$VERSION/phosphur-$VERSION.tgz
+npm i
 ```
 
 - Start the app:
