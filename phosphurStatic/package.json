@@ -1,5 +1,5 @@
 {
-  "name": "phosphur-static",
+  "name": "phosphurstatic",
   "main": "lib/index.js",
   "version": "1.0.0",
   "type": "module",

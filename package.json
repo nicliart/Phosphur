@@ -13,13 +13,13 @@
   "keywords": [
     "proxy"
   ],
-  "author": "",
-  "license": "GPL-3.0-or-later",
+  "author": "Etcher",
+  "license": "Creative-Commons-Attribution-NonCommercial-4.0-International",
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^1.0.10",
     "@tomphttp/bare-server-node": "^1.2.5",
     "express": "^4.18.2",
-    "ultraviolet-static": "file:./phosphur-static"
+    "ultraviolet-static": "file:./phosphurStatic"
   },
   "devDependencies": {
     "eslint": "^8.32.0",
