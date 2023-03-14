@@ -14,6 +14,7 @@
 
 ## Projects Used
 
+- [Ultraviolet-App](https://github.com/titaniumnetwork-dev/Ultraviolet-App)
 - [Ultraviolet-Static](https://github.com/titaniumnetwork-dev/Ultraviolet-Static)
 - [acrylic-mica-css](https://github.com/yell0wsuit/acrylic-mica-css)
 
