@@ -19,7 +19,7 @@
     "@titaniumnetwork-dev/ultraviolet": "^1.0.10",
     "@tomphttp/bare-server-node": "^1.2.5",
     "express": "^4.18.2",
-    "ultraviolet-static": "file:./phosphurStatic"
+    "url": "^0.11.0"
   },
   "devDependencies": {
     "eslint": "^8.32.0",
