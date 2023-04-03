@@ -16,7 +16,7 @@
   "author": "Etcher",
   "license": "Creative-Commons-Attribution-NonCommercial-4.0-International",
   "dependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^1.0.10",
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.11",
     "@tomphttp/bare-server-node": "^1.2.5",
     "express": "^4.18.2",
     "url": "^0.11.0"
