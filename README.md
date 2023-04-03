@@ -18,7 +18,7 @@
 - [Ultraviolet-Static](https://github.com/titaniumnetwork-dev/Ultraviolet-Static)
 - [acrylic-mica-css](https://github.com/yell0wsuit/acrylic-mica-css)
 
-## How to deploy
+## How to Deploy
 
 - Clone [Phosphur](https://github.com/etcherfx/Phosphur) to a hosting service 
 - Run the following command in the console:
