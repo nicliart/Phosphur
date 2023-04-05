@@ -4,7 +4,7 @@
 
 # Phosphur
 
-### A minimalistic Ultraviolet frontend.
+<span style="font-size:18px;">A minimalistic Ultraviolet frontend.</span>
 
 </div>
 
@@ -20,8 +20,9 @@
 
 ## How to Deploy
 
-- Clone [Phosphur](https://github.com/etcherfx/Phosphur) to a hosting service 
+- Clone [Phosphur](https://github.com/etcherfx/Phosphur) to a hosting service
 - Run the following command in the console:
+
 ```sh
 npm i
 ```
