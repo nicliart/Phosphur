@@ -10,7 +10,7 @@
 
 ## Links
 
-[Website](https://phosphur.etcher.me) • [Releases](https://github.com/etcherfx/Phosphur/releases)
+[Website](https://phosphur.nicliart.me) • [Releases](https://github.com/nicliart/Phosphur/releases)
 
 ## Projects Used
 
